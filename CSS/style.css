@@ -1,0 +1,101 @@
+/* Elements style */
+body
+{
+    margin: 0 ; 
+    font-family: 'Merriweather', serif;
+    background-color: none ;   
+}
+hr 
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #D8CCA3;
+    border-width: 4px;
+    width: 5% 
+}
+h1 
+{
+    font-family: 'Sacramento', cursive ;
+    color:#6854A6;
+}
+h3 
+{
+   color: #6854A6;
+   font-family: 'Montserrat', sans-serif;
+}
+
+/* Class style */
+/* DIV: Top */
+.top
+{   
+    background-color: #FFF4E8 ;
+    display: inline-block;
+    width: 100%;  
+}
+
+.nametitle
+{
+    color: #91B4DB;
+    display:inline-block ;
+    position: absolute;
+    left: 450px;
+}
+
+.hand 
+{
+    position: absolute ;
+    left : 500px ; 
+    top : 70px ; 
+}
+
+.sentence1
+{
+    text-align: center;
+}
+
+.circuler
+{ 
+margin-top: 10px ;
+margin-left:  10px;
+
+}
+
+/* ********************* DIV : BACKGROUND IMAGES **********************/
+
+
+
+
+
+
+/* ********************* DIV : CONTACT ME  **********************/
+.contact1
+{   
+    margin: 0 0 0 0 ; 
+    display:inline-block ; 
+    width:20% ; 
+}
+
+.contact2
+{
+    text-align: center;
+}
+
+
+.contact-me
+{
+    background-color: #D0DCF6;
+}
+
+
+
+.first
+{
+    text-align: center;
+}
+
+
+
+.press
+{
+    text-decoration: underline;
+}
